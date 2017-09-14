@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:orientation="vertical"
+    android:background="@color/colorPopup">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="10dp"
+        android:paddingTop="8dp"
+        android:shrinkColumns="2">
+
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_uid"
+                style="@style/AutoTextInfo"
+                android:text="Board UID"/>
+            <EditText
+                android:id="@+id/txt_colon1"
+                style="@style/AutoTextInfo"
+                android:text=":"
+                android:textStyle="bold"/>
+            <EditText
+                android:id="@+id/txt_uidinfo"
+                style="@style/AutoTextInfo"/>
+        </TableRow>
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_model"
+                style="@style/AutoTextInfo"
+                android:text="Model"/>
+            <EditText
+                android:id="@+id/txt_colon2"
+                style="@style/AutoTextInfo"
+                android:text=":"
+                android:textStyle="bold"/>
+            <EditText
+                android:id="@+id/txt_modelinfo"
+                style="@style/AutoTextInfo"/>
+        </TableRow>
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_type"
+                style="@style/AutoTextInfo"
+                android:text="Type"/>
+            <EditText
+                android:id="@+id/txt_colon3"
+                style="@style/AutoTextInfo"
+                android:text=":"
+                android:textStyle="bold"/>
+            <EditText
+                android:id="@+id/txt_typeinfo"
+                style="@style/AutoTextInfo"/>
+        </TableRow>
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_platform"
+                style="@style/AutoTextInfo"
+                android:text="Platform"/>
+            <EditText
+                android:id="@+id/txt_colon4"
+                style="@style/AutoTextInfo"
+                android:text=":"
+                android:textStyle="bold"/>
+            <EditText
+                android:id="@+id/txt_platforminfo"
+                style="@style/AutoTextInfo"/>
+        </TableRow>
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_vendor"
+                style="@style/AutoTextInfo"
+                android:text="Vendor"/>
+            <EditText
+                android:id="@+id/txt_colon5"
+                style="@style/AutoTextInfo"
+                android:text=":"
+                android:textStyle="bold"/>
+            <EditText
+                android:id="@+id/txt_vendorinfo"
+                style="@style/AutoTextInfo"/>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:paddingTop="8dp">
+
+        <TableRow>
+        <Button
+            android:id="@+id/btpower"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/power">
+
+        </Button>
+        <view
+            class="android.support.v4.widget.Space"
+            id="@+id/view"
+            android:layout_width="30dp"
+            android:layout_height="50dp" />
+        <Button
+            android:id="@+id/btreset"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_toEndOf="@+id/btpower"
+            android:background="@drawable/reset">
+
+        </Button>
+        <view
+             class="android.support.v4.widget.Space"
+             id="@+id/view2"
+             android:layout_width="30dp"
+             android:layout_height="50dp" />
+        <Button
+            android:id="@+id/btdelete"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/delete">
+
+        </Button>
+        <view
+            class="android.support.v4.widget.Space"
+            id="@+id/view3"
+            android:layout_width="30dp"
+            android:layout_height="50dp" />
+        <Button
+            android:id="@+id/btupdate"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/update">
+
+        </Button>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

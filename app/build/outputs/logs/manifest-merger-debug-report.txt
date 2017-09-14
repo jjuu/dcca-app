@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:22-66
+application
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/b41466/.android/build-cache/702c4d04fbccc53505ef8bed01a85db75133a17d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/b41466/.android/build-cache/c47492c682e08dac6422bb4df6350a2bab04663a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/b41466/.android/build-cache/3f3352a612531ae998b65f45bc7fc6c2426fd34c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/b41466/.android/build-cache/e8c3a35c5e1847a97f8fbd91aa8b49bc46648d44/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/b41466/.android/build-cache/9218bc088afa97c02d4673a4b9d6b8e05cd19a47/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/b41466/.android/build-cache/ab8176d49ee45518440ed3e2243a6301e0c6f0d0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/b41466/.android/build-cache/dc0be14f6d93e4cc8f9b85537489eacce30cf262/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/b41466/.android/build-cache/7f5518ec777b655f0435fbd9fa7e43e08b52fbe6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/b41466/.android/build-cache/e1ee1b91904b3be250541be67b4413ab7623e669/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/b41466/.android/build-cache/9f481c874915754621beb40ad8f5d5a6ed58678f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/b41466/.android/build-cache/b8a2c4af288b20774111a1298341c57eabb1df16/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:9-40
+activity#nxp.dcca.MainActivity
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/b41466/.android/build-cache/702c4d04fbccc53505ef8bed01a85db75133a17d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/b41466/.android/build-cache/c47492c682e08dac6422bb4df6350a2bab04663a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/b41466/.android/build-cache/3f3352a612531ae998b65f45bc7fc6c2426fd34c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/b41466/.android/build-cache/e8c3a35c5e1847a97f8fbd91aa8b49bc46648d44/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/b41466/.android/build-cache/9218bc088afa97c02d4673a4b9d6b8e05cd19a47/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/b41466/.android/build-cache/ab8176d49ee45518440ed3e2243a6301e0c6f0d0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/b41466/.android/build-cache/dc0be14f6d93e4cc8f9b85537489eacce30cf262/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/b41466/.android/build-cache/7f5518ec777b655f0435fbd9fa7e43e08b52fbe6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/b41466/.android/build-cache/ae1e0e68d4c3611f0b52a73b68c90f44c81fdfb0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/b41466/.android/build-cache/e1ee1b91904b3be250541be67b4413ab7623e669/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/b41466/.android/build-cache/9f481c874915754621beb40ad8f5d5a6ed58678f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.8] /home/b41466/.android/build-cache/9a8a4c6acb6ecfe3380f4dfdb8f33e41897cb62d/output/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.8] /home/b41466/.android/build-cache/336731c8ade7825ea7a5f5ab39990b5b427d4454/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/b41466/.android/build-cache/b8a2c4af288b20774111a1298341c57eabb1df16/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/b41466/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/b41466/.android/build-cache/702c4d04fbccc53505ef8bed01a85db75133a17d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/b41466/.android/build-cache/c47492c682e08dac6422bb4df6350a2bab04663a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/b41466/.android/build-cache/3f3352a612531ae998b65f45bc7fc6c2426fd34c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/b41466/.android/build-cache/e8c3a35c5e1847a97f8fbd91aa8b49bc46648d44/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/b41466/.android/build-cache/9218bc088afa97c02d4673a4b9d6b8e05cd19a47/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/b41466/.android/build-cache/ab8176d49ee45518440ed3e2243a6301e0c6f0d0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/b41466/.android/build-cache/dc0be14f6d93e4cc8f9b85537489eacce30cf262/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/b41466/.android/build-cache/7f5518ec777b655f0435fbd9fa7e43e08b52fbe6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/b41466/.android/build-cache/ae1e0e68d4c3611f0b52a73b68c90f44c81fdfb0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/b41466/.android/build-cache/e1ee1b91904b3be250541be67b4413ab7623e669/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/b41466/.android/build-cache/9f481c874915754621beb40ad8f5d5a6ed58678f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/b41466/.android/build-cache/d3b4a2daed4bae4d727fbab6e978ef10d793f91c/output/AndroidManifest.xml:26:9-47

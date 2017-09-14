@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/b41466/AndroidStudioProjects/MyApplication/app/libs/nineoldanimatin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c9460454d4f6578861c7312199a6bab9e1a9db7">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/nineoldanimatin_904efce88a555dd6716f7cf0e3ad994b502fbd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/b41466/.android/build-cache/336731c8ade7825ea7a5f5ab39990b5b427d4454/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e2169433c7bcf54b83aea0d9ac1c814febd5a7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/b41466/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2484dbc00dcced96a1c2525002eb4f6e96b516b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/b41466/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/core-3.3.0_e3633994b02bcc4bb8e591fca05b201353da035e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/b41466/.android/build-cache/b8a2c4af288b20774111a1298341c57eabb1df16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7373470ec667f54c5e446e3e6b060772afb59599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/b41466/.android/build-cache/9a8a4c6acb6ecfe3380f4dfdb8f33e41897cb62d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23647d9df9a09d92f2a905a1d85cb72c53e7ccb1">
+        <dex dex="/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_5a3e7bdb62a2520bc132dd8c5002e6efbe2c7f95.jar" />
+    </item>
+
+</items>

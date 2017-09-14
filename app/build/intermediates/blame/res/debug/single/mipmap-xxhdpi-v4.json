@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_grid_scan_line.png",
+        "source": "/home/b41466/.android/build-cache/9a8a4c6acb6ecfe3380f4dfdb8f33e41897cb62d/output/res/mipmap-xxhdpi-v4/qrcode_default_grid_scan_line.png"
+    },
+    {
+        "merged": "/home/b41466/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_scan_line.png",
+        "source": "/home/b41466/.android/build-cache/9a8a4c6acb6ecfe3380f4dfdb8f33e41897cb62d/output/res/mipmap-xxhdpi-v4/qrcode_default_scan_line.png"
+    }
+]
